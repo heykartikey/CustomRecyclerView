@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomRecyclerView</string>
+    <string name="store_logo">Store Logo</string>
+    <string name="fab_description">Click to add an image to Recycler View</string>
+</resources>
